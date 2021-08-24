@@ -1,0 +1,6 @@
+/orders
+ * GET - get all the orders as JSON
+ * POST - place an order request as JSON
+
+/orders/:id
+ * GET get an order by its ID as JSON
