@@ -1,0 +1,15 @@
+host: shop.doughnut.io
+info:
+  contact:
+    email: storemanager@doughnut.io
+    name: API Support
+    url: http://doughnut.io/
+  description: Doughnut shop API
+  license:
+    name: Apache 2.0
+    url: http:apache.org/licenses/LICENSE-2.0.html
+  termsOfService: http://doughnut.io/terms
+  title: Swagger Example API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
